@@ -1,7 +1,7 @@
 import setuptools
 
 setuptools.setup(
-    name="text-to-voice",
+    name="this_is_alpen_package_master",
     version="0.0.1",
     author="Anton",
     author_email="lotrus@yandex.ru",
