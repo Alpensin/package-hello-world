@@ -1,7 +1,7 @@
 import setuptools
 
 setuptools.setup(
-    name="this-is-alpen-package-master",
+    name="package-hello-world",
     version="0.0.1",
     author="Anton",
     author_email="lotrus@yandex.ru",
