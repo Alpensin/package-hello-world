@@ -1,6 +1,5 @@
 venv/
 *.mp3
 build/
-dist/
 *.egg-info/
 *.pyc
