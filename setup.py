@@ -1,7 +1,7 @@
 import setuptools
 
 setuptools.setup(
-    name="this_is_alpen_package_master",
+    name="this-is-alpen-package-master",
     version="0.0.1",
     author="Anton",
     author_email="lotrus@yandex.ru",
