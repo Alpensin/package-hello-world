@@ -6,7 +6,7 @@ setuptools.setup(
     author="Anton",
     author_email="lotrus@yandex.ru",
     description="Testing how packages work",
-    url="https://github.com/pypa/sampleproject",
+    url="git@github.com:Alpensin/package-hello-world.git",
     project_urls={
         "Just Google": "https://www.google.com/",
     },
